@@ -11,7 +11,7 @@
 * {
   margin: 0;
   padding: 0;
-  //box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body{
@@ -46,7 +46,7 @@ input{
 }
 
 .container{
-  max-width: 100px;
+  //max-width: 100px;
   margin: auto;
   overflow: hidden;
   padding: 0 2rem;
